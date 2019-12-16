@@ -1,3 +1,0 @@
-#c_ip:1 c_port:2 c_first_abs:3 c_durat:4 c_bytes_all:5 c_pkts_all:6 c_isint:7 c_iscrypto:8 c_type:9 s_ip:10 s_port:11 s_first_abs:12 s_durat:13 s_bytes_all:14 s_pkts_all:15 s_isint:16 s_iscrypto:17 s_type:18 fqdn:19 quic_SNI:20 quic_UA:21 quic_CHLO:22 quic_REJ:23
-10.52.1.64 68 1576228528650.115967 0.000000 300 1 1 0 0 255.255.255.255 67 0.000000 0.000000 0 0 1 0 0 - - - 0 0
-10.52.0.204 68 1576229594024.268066 0.000000 300 1 1 0 0 10.52.0.1 67 1576229594068.772949 0.000000 363 1 1 0 0 - - - 0 0
